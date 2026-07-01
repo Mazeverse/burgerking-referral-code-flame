@@ -2,6 +2,8 @@
 
 Burger King referral code landing page for sharing the friend invitation code `XSkYE2ud`.
 
+Live URL: https://burgerking-referral-code-flame.pages.dev/
+
 ## Referral Code
 
 ```text
